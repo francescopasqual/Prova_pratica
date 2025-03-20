@@ -1,2 +1,6 @@
 2103119
 2068075
+
+AMD Ryzen 3 3200 G
+Intel Core i5 12400F
+Piro Processor 5000
