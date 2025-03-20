@@ -6,3 +6,6 @@ Riferimento a processori
 Riferimento a schede_madri
 
 Elettronica Padovana
+
+##Componenti
+
