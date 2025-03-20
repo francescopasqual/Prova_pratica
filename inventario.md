@@ -9,3 +9,5 @@ Elettronica Padovana
 
 ##Componenti
 
+##periferiche
+
